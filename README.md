@@ -1,8 +1,8 @@
 # D3 Homework - Data Journalism and D3
 
 ## Results
-![D3Times 1](https://github.com/deliahellander/D3-Challenge/blob/main/D3_data_journalism/images/D3Times%201.png?raw=true)
-![D3Times 2](https://github.com/deliahellander/D3-Challenge/blob/main/D3_data_journalism/images/D3Times%202.png?raw=true)
+![D3Times 1](https://github.com/deliahellander/D3-Challenge/blob/main/D3_data_journalism/images/D3%20Times%201.png?raw=true)
+![D3Times 2](https://github.com/deliahellander/D3-Challenge/blob/main/D3_data_journalism/images/D3%20Times%202.png?raw=true)
 
 - - -
 
