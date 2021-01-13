@@ -4,7 +4,7 @@
 ![D3Times 1](https://github.com/deliahellander/D3-Challenge/blob/main/D3_data_journalism/images/D3Times2.png?raw=true)
 ![D3Times 2](https://github.com/deliahellander/D3-Challenge/blob/main/D3_data_journalism/images/D3Times1.png?raw=true)
 
-
+- - -
 
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
